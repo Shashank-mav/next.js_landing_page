@@ -13,7 +13,7 @@ const Banner = () => {
                         <Image src="/assets/banner/star.svg" alt="star-image" width={95} height={97} className='absolute top-[-74px] right-[51px]' />
                         <Image src="/assets/banner/lineone.svg" alt="line-image" width={190} height={148} className='absolute top-[-74px] right-[51px]' />
                         <h1 className='text-midnightblue text-4xl md:text-85xl text-center lg:text-start font-semibold lh-133 pt-5'>Reach Those Who Need You The Most !!</h1>
-                        <h3 className='text-black opacity-75 text-lg font-normal text-center lg:text-start pt-8'>You're on the brink of something remarkable. Our purpose is to empower visionaries and entrepreneurs like you. With unwavering dedication, we provide the expertise and support you need to turn your ideas into thriving businesses. Join us on this journey toward success. Let's make your vision a reality together.</h3>
+                        <h3 className='text-black opacity-75 text-lg font-normal text-center lg:text-start pt-8'>You are on the brink of something remarkable. Our purpose is to empower visionaries and entrepreneurs like you. With unwavering dedication, we provide the expertise and support you need to turn your ideas into thriving businesses. Join us on this journey toward success. Lets make your vision a reality together.</h3>
                         <div className='pt-8 mx-auto lg:mx-0'>
                             <button className="text-white text-xl font-medium py-6 px-12 rounded-full transition duration-150 ease-in-out bg-electricblue hover:text-white hover:bg-blue">
                                 Get started
